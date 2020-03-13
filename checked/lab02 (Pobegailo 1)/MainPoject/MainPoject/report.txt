@@ -1,0 +1,3 @@
+Title: File report "report.txt"
+Line: 1	name: viktor	hours: 2	payment: 6
+Line: 2	name: ivan	hours: 3	payment: 9

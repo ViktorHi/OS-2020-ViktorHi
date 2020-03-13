@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/viktor/os/lab01withFetch/main.cpp
+iostream
+-
+fstream
+-
+string
+-
+utility
+-
+unistd.h
+-
+wait.h
+-
+
